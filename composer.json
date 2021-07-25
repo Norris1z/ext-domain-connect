@@ -16,10 +16,10 @@
     }
   },
   "require": {
-    "php": ">=5.6",
+    "php": ">=7.3",
     "ext-json": "*",
     "ext-openssl": "*",
-    "guzzlehttp/guzzle": "^6.3",
+    "guzzlehttp/guzzle": "^7.0",
     "layershifter/tld-extract": "^2.0"
   },
   "require-dev": {
